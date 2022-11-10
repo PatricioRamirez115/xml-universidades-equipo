@@ -19,5 +19,28 @@
             <Telefono>+56 322 27 32 80</Telefono>
             <Convenio>Movilidad Academica</Convenio>
         </Universidad>
+       
+        <Alan Patricio Ramirez Leal 2035516>
+        -<Universidad>
+			<Nombre>Universidad de Murcia</Nombre>
+			<Pais>España</Pais>
+			<Direccion>C. Campus Universitario, 11, 30100 Murcia, España</Direccion>
+			<Idioma>Español</Idioma>
+			<Fundacion>1915</Fundacion>
+			<Telefono>+34 868 88 30 00</Telefono>
+			<TipoConvenio>(Marco)</TipoConvenio>
+		</Universidad>
+
+		-<Universidad>
+			<Nombre>City University of Seattle</Nombre>
+			<Pais>Estados Unidos</Pais>
+			<Direccion>521 Wall St #100, Seattle, WA 98121, Estados Unidos</Direccion>
+			<Idioma>Ingles</Idioma>
+			<Fundacion>1973</Fundacion>
+			<Telefono>+1 206-239-4500</Telefono>
+			<TipoConvenio>(Específico en área de Administración)</TipoConvenio>
+		</Universidad>
+        </Alan Patricio Ramirez Leal 2035516>
+        
     </Universidades>
 </Inicio>
