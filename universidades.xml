@@ -1,0 +1,23 @@
+<Inicio>
+    <Universidades>
+        <Universidad>
+            <Nombre>Universidad Miguel Hernández de Elche</Nombre>
+            <Pais>Espana</Pais>
+            <Direccion>Avinguda de la Universitat d'Elx, s/n, 03202 Elche, Alicante, Spain</Direccion>
+            <Idioma>Espanol</Idioma>
+            <Fundacion>Diciembre 27, 1996</Fundacion>
+            <Telefono>+34 966 65 85 00</Telefono>
+            <Convenio>Marco</Convenio>
+        </Universidad>
+
+        <Universidad>
+            <Nombre>Universidad de Valparaíso</Nombre>
+            <Pais>Chile</Pais>
+            <Direccion>Blanco 951 Valparaiso, Chile</Direccion>
+            <Idioma>Espanol</Idioma>
+            <Fundacion>Febrero 12, 1981</Fundacion>
+            <Telefono>+56 322 27 32 80</Telefono>
+            <Convenio>Movilidad Academica</Convenio>
+        </Universidad>
+    </Universidades>
+</Inicio>
